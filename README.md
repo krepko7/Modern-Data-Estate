@@ -8,16 +8,19 @@ Please see the pre-requisites below.
 
 # Pre-requisites for the labs in this course
 - [Azure Subscription with rights to use/deploy Azure services](https://portal.azure.com)
-- [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
-- [As an alternative to SSMS you can use Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-ver15)
+- [Download the free Power BI Desktop on Windows](https://powerbi.microsoft.com/en-us/desktop/)
 - Web browser Edge or Chrome recommended
+
+# Optional utilities that can be used for the solutions presented in this course
+- [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+- [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-ver15)
+
 
 # Let's get started!
 - [Lab 1 - Create storage account, Data Factory and Pipeline](https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-portal#:~:text=1%20Launch%20Microsoft%20Edge%20or%20Google%20Chrome%20web,%28UI%29%20application%20on%20a%20separate%20browser%20tab.%20)
 - [Lab 2 - Get sample file and copy to your Data Lake storage account](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab2%20-%20Copy%20file%20to%20storage%20account)
 - [Lab 3 - Create a data pipeline with a code free Data Flow activity](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-data-flow#create-a-pipeline-with-a-data-flow-activity)
-- [Lab 4 - aCreate a Power BI report using the file you transformed above](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab4%20-%20Power%20BI)
-
+- [Lab 4 - Create a Power BI report using the file you transformed above](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab4%20-%20Power%20BI)
 
 
 
