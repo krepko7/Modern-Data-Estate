@@ -14,7 +14,7 @@ Please see the pre-requisites below.
 
 # Let's get started!
 - [Lab 1 - Create storage account, Data Factory and Pipeline](https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-portal#:~:text=1%20Launch%20Microsoft%20Edge%20or%20Google%20Chrome%20web,%28UI%29%20application%20on%20a%20separate%20browser%20tab.%20)
-- [Lab 2 - xxxxxx](https://github.com/krepko7/Azure-Data-Factory/tree/master/labs)
+- [Lab 3 - Create a data pipeline with a code free Data Flow activity](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-data-flow#create-a-pipeline-with-a-data-flow-activity)
 
 
 # Official Documentation for Azure Data Factory
