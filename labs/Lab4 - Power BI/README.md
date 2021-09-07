@@ -31,7 +31,7 @@ On first screen in Power BI Desktop click Get Data and then pick the Azure categ
 
 Put the URL from your Data Lake storage account and add the container (folder) name.  Green is the Storage Account URL from your endpoints.
 Yellow is the container (folder) name and blue is the file name.
-The file name is case sensitive.  Example:  https://adlsgen2kirby.dfs.core.windows.net/container1/CarInventoryTextOnly.csv
+The file name is case sensitive.  Example:  "https://adlsgen2kirby.dfs.core.windows.net/container1/CarInventoryTextOnly.csv"
 
 <img style="float: right;" src="../../graphics/MDL_PBI_URL_In_Color.png">
 
