@@ -21,28 +21,11 @@ Remember when creating new resources in Azure to check the notifications bell ic
 
 <img style="float: right;" src="../../graphics/notificationbell.png">
 
-Once your data factory is set up open it in Azure. Click the Author and Monitor button.
+Once your data factory is set up open it in Azure. 
 
-<img style="float: right;" src="../../graphics/adfauthor.png">
+<img style="float: right;" src="../../graphics/MDL_OpenADF.png">
 
-Here is a screen shot of the initial ADF splash page. Click the Author pencil on left.
+Here is a screen shot of the initial ADF splash page. 
 
 <img style="float: right;" src="../../graphics/adfsplash.png">
-
-Click the Connections menu item at the bottom left and then click New.
-
-<img style="float: right;" src="../../graphics/adfconnections.png">
-
-Pick the Database category and then pick SQL Server.
-
-<img style="float: right;" src="../../graphics/adflinkedservicesql.png">
-
-The name of your linked service is important since you will end up with many of these and will want to know what linked service points to what data source.
-You will later create data sets based on these linked services. 
-Leave the Connect Via integration runtime (IR) drop down as "autoresolveintegrationruntime".  See more about IR's at https://docs.microsoft.com/en-us/azure/data-factory/create-azure-integration-runtime
-
-Make sure to test the connection before you proceed.
-
-<img style="float: right;" src="../../graphics/adfsqllinkedservice.png">
-
 
