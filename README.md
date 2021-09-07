@@ -2,18 +2,14 @@
 
 # Modern Data Estate
 
-This workshop will help you become familiar with Azure Data Factory. You will create pipelines to copy data from a SQL Server and load it into Azure Data Lake.
-Steps include creating SQL Server on a Virtual Machine in Azure. Restoring a database backup file to the SQL Server. Copying data from SQL to a data lake and
-then doing an incremental copy from SQL Server to the data lake. 
+This workshop will help you become familiar with Azure Data solutions including Data Lake, Data Factory and Azure SQL DB.
 
 Please see the pre-requisites below.  
 
 # Pre-requisites for the labs in this course
 - [Azure Subscription with rights to use/deploy Azure services](https://portal.azure.com)
-- [Access to SQL Server on a VM in Azure](https://github.com/krepko7/Azure-Data-Factory/tree/master/labs/Lab0%20-%20Set%20up)
-- [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
-- [Microsoft Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
-- [(optional) Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-ver15)
+- [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+- [As an alternative to SSMS you can use Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-ver15)
 - Web browser Edge or Chrome recommended
 
 # Let's get started!
@@ -24,6 +20,7 @@ Please see the pre-requisites below.
 - [Microsoft Azure Data Factory Documentation site](https://docs.microsoft.com/en-us/azure/data-factory/)
 
 # Other labs you may be interested in
+
 
 ## Azure Data Factory
 - [Provision Azure SSIS Integration Runtime](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-deploy-ssis-packages-azure)
