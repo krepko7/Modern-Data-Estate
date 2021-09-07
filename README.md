@@ -16,7 +16,7 @@ Please see the pre-requisites below.
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-ver15)
 
 
-# Let's get started!
+# Let's get starteda!
 - [Lab 1a - Create Data Lake storage account]()
 - [Lab 1b - Create Azure Data Factory]()
 - [Lab 2  - Get sample file and copy to your Data Lake storage account](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab2%20-%20Copy%20file%20to%20storage%20account)
