@@ -53,3 +53,15 @@ Click the Go to resource button to go to your new database.
 <img style="float: right;" src="../../graphics/SQL_Create8.png">
 &nbsp;
 
+Notice in your new SQL database the server name.  You will want to copy this for use later. If you click the server name you are then brought from the 
+database to the logical server you set up as part of this lab.  
+
+<img style="float: right;" src="../../graphics/SQL_Create9.png">
+&nbsp;
+
+From here you can control firewalls and virtual networks as well as reset the SQL admin password.
+
+<img style="float: right;" src="../../graphics/SQL_Create10.png">
+&nbsp;
+
+
