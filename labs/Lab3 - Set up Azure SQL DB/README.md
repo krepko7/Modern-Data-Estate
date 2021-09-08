@@ -46,4 +46,9 @@ You can now click the Review + create button.
 &nbsp;
 
 Review the settings and price details and then press the Create button.
+Once your database is ready you should see a screen like this. If you don't, click the Bell icon at the top right to see
+the status of your database.
+
+<img style="float: right;" src="../../graphics/SQL_Create8.png">
+&nbsp;
 

@@ -10,7 +10,7 @@ In this lab we are retriving a text file from GitHub and saving it locally on ou
 
 - [Step 2 - Upload file to storage account using the Azure Portal](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal)
 
-- Optional Step - If you are doing the Data Factory Data Flow tutorial later in this tutoraial the file we will use is MoviesDB.csv. To retrieve the file from GitHub, copy the contents to a text editor of your choice to save locally as a .csv file. 
+- Optional Step - If you are doing the lab "Create a data pipeline with a code free Data Flow activity" the file we will use is MoviesDB.csv. To retrieve the file from GitHub, copy the contents to a text editor of your choice to save locally as a .csv file. 
   The file can be found [here](https://raw.githubusercontent.com/djpmsft/adf-ready-demo/master/moviesDB.csv).
 
 
