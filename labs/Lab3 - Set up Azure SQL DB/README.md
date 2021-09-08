@@ -61,7 +61,7 @@ database to the logical server you set up as part of this lab.
 
 From here you can control firewalls and virtual networks as well as reset the SQL admin password.
 
-<img style="float: right;" src="../../graphics/SQL_Create10.png">
+<img style="float: right;" src="../../graphics/SQL_Create11.png">
 &nbsp;
 
 
