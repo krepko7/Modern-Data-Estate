@@ -16,6 +16,8 @@ Now press the Create button at the top left.
 &nbsp;
 
 Use an existing Resource Group or create a new one.  A Resource Group is simply a logical way to group items in Azure.
+Also, if this is your first SQL DB then you will create a new "Server" in the Database details section.  You can have one "Server" and many
+SQL DB's so you only have to create the server once.  This isn't an actual server, it's a way to organize connections, firewalls, networking etc.
 Pick No for the SQL elastic pool option.
 Before pressing "Next..." click the Configure Database link.
 
