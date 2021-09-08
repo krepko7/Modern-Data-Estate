@@ -19,6 +19,7 @@ Use an existing Resource Group or create a new one.  A Resource Group is simply 
 Also, if this is your first SQL DB then you will create a new "Server" in the Database details section.  You can have one "Server" and many
 SQL DB's so you only have to create the server once.  This isn't an actual server, it's a way to organize connections, firewalls, networking etc.
 Pick No for the SQL elastic pool option.
+If you create a new SQL Server make sure to save the admin ID and password securley. 
 Before pressing "Next..." click the Configure Database link.
 
 <img style="float: right;" src="../../graphics/sql_create3.png">
