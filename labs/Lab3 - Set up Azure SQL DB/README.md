@@ -15,7 +15,7 @@ Use an existing Resource Group or create a new one.  A Resource Group is simply 
 Pick No for the SQL elastic pool option.
 Before pressing "Next..." click the Configure Database link.
 
-<img style="float: right;" src="../../graphics/SQL_Create3.png">
+<img style="float: right;" src="../../graphics/sql_create3.png">
 
 In the Configure Database page pick the Save Money option if you already own a SQL Server license.  You can use the sliders at the bottom of
 this page to pick the number of vCores and database size. For this lab a 2 vCore with 5 GB should be fine. Click the apply button.
@@ -36,8 +36,3 @@ You can now click the Review + create button.
 
 Review the settings and price details and then press the Create button.
 
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
