@@ -18,9 +18,10 @@ Please see the pre-requisites below.
 
 # Let's get started!
 - [Lab 1 - Create Data Lake storage account](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab1a%20-%20Create%20Data%20Lake%20Storage%20Account)
-- [Lab 2  - Get sample file and copy to your Data Lake storage account](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab2%20-%20Copy%20file%20to%20storage%20account)
-- [Lab 3  - Create a data pipeline with a code free Data Flow activity](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-data-flow#create-a-pipeline-with-a-data-flow-activity)
-- [Lab 4  - Create a Power BI report using the file you transformed above](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab4%20-%20Power%20BI)
+- [Lab 2 - Get sample file and copy to your Data Lake storage account](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab2%20-%20Copy%20file%20to%20storage%20account)
+- [Lab ? - Set up an Azure SQL Database]()
+- [Lab 3 - Create a data pipeline with a code free Data Flow activity](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-data-flow#create-a-pipeline-with-a-data-flow-activity)
+- [Lab 4 - Create a Power BI report using the file you transformed above](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab4%20-%20Power%20BI)
 
 
 
