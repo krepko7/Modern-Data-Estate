@@ -3,6 +3,8 @@
 ## Modern Data Estate
 # Lab 3 - Set up an Azure SQL Database
 
+>This is the fun part :smile:
+
 In the Azure Portal (portal.azure.com) type "SQL databases" in the search bar at the top of the page then click the SQL Databases option in the search results.
 
 <img style="float: right;" src="../../graphics/SQL_Create.png">
