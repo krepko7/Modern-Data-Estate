@@ -1,0 +1,26 @@
+Inventory ID,Make,Car Type,Year,Location ID,Purchase Price,Trade In,Private Party,Dealer,CarFax Report ID,Buyer,City
+255487,Jaguar - XK,Coupe,2007,L345,"$14,512.45 ","$17,090.45 ","$21,034.40 ","$26,293.00 ",7001,george best,Pasadena
+258237,Citroen - 2CV,Sedan,1990,L345,"$7,172.00 ","$9,750.00 ","$12,000.00 ","$15,000.00 ",7002,doug davis,Arcadia
+260987,Honda - Accord,Sedan,2010,L5789,"$3,697.10 ","$6,275.10 ","$7,723.20 ","$9,654.00 ",7010,andrew burton,Glendale
+263737,Subaru - Impreza,Hatchback,2012,LT9876,"$8,162.60 ","$10,740.60 ","$13,219.20 ","$16,524.00 ",8745,joe montgomery,Glendale
+266487,Volvo - S90,Sedan,2016,L098,"$15,066.25 ","$17,644.25 ","$21,716.00 ","$27,145.00 ",9587,andy rimster,Arcadia
+269237,VW - Jetta,Sedan,2014,L345,"$8,115.80 ","$10,693.80 ","$13,161.60 ","$16,452.00 ",5124,earnest shackleton,Pasadena
+271987,Mini - Cooper,Coupe,2014,L349,"$13,387.95 ","$15,965.95 ","$19,650.40 ","$24,563.00 ",2458,gus bamber,Pasadena
+274737,Ford - Flex,SUV,2011,L5789,"$4,869.05 ","$7,447.05 ","$9,165.60 ","$11,457.00 ",5487,keith jones,Glendale
+277487,Chevrolet - Camaro,Coupe,2012,L9875,"$5,587.30 ","$8,165.30 ","$10,049.60 ","$12,562.00 ",5412,rachel brooks,Arcadia
+280237,VW - Golf,Hatchback,2014,L349,"$8,032.60 ","$10,610.60 ","$13,059.20 ","$16,324.00 ",2154,shelly brown,Beverly Hills
+282987,Jaguar - XJ8,Sedan,2009,L349,"$7,597.10 ","$10,175.10 ","$12,523.20 ","$15,654.00 ",8974,doug davis,Beverly Hills
+285737,Land Rover - Range Rover,SUV,2012,L098,"$17,823.55 ","$20,401.55 ","$25,109.60 ","$31,387.00 ",9657,andrew burton,Beverly Hills
+288487,Volvo - S90,Sedan,2016,L098,"$17,796.25 ","$20,374.25 ","$25,076.00 ","$31,345.00 ",9587,andy rimster,Arcadia
+291237,VW - Jetta,Sedan,2014,L345,"$8,115.80 ","$10,693.80 ","$13,161.60 ","$16,452.00 ",5124,earnest shackleton,Pasadena
+293987,Mini - Cooper,Coupe,2014,L349,"$12,087.95 ","$14,665.95 ","$18,050.40 ","$22,563.00 ",2458,gus bamber,Pasadena
+296737,Ford - Flex,SUV,2011,L5789,"$5,519.05 ","$8,097.05 ","$9,965.60 ","$12,457.00 ",5487,keith jones,Glendale
+299487,Chevrolet - Camaro,Coupe,2012,L9875,"$5,587.30 ","$8,165.30 ","$10,049.60 ","$12,562.00 ",5412,rachel brooks,Arcadia
+302237,BMW - 325ci,Sedan,2010,L5789,"$12,667.10 ","$15,245.10 ","$18,763.20 ","$23,454.00 ",7010,andrew burton,Glendale
+304987,Subaru - Impreza,Sedan,2012,LT9876,"$8,162.60 ","$10,740.60 ","$13,219.20 ","$16,524.00 ",8745,joe montgomery,Glendale
+307737,Volvo - S90,Sedan,2016,L098,"$13,766.25 ","$16,344.25 ","$20,116.00 ","$25,145.00 ",9587,andy rimster,Arcadia
+310487,VW - Jetta,Sedan,2014,L345,"$8,115.80 ","$10,693.80 ","$13,161.60 ","$16,452.00 ",5124,earnest shackleton,Pasadena
+313237,VW - Golf,Hatchback,2014,L349,"$7,382.60 ","$9,960.60 ","$12,259.20 ","$15,324.00 ",2154,shelly brown,Beverly Hills
+315987,Jaguar - XJ8,Sedan,2009,L349,"$8,897.10 ","$11,475.10 ","$14,123.20 ","$17,654.00 ",8974,doug davis,Beverly Hills
+318737,Land Rover - Range Rover,SUV,2012,L098,"$19,903.55 ","$22,481.55 ","$27,669.60 ","$34,587.00 ",9657,andrew burton,Beverly Hills
+321487,Chevrolet - Volt,Sedan,2012,L098,"$16,366.25 ","$18,944.25 ","$23,316.00 ","$29,145.00 ",9587,andy rimster,Arcadia
