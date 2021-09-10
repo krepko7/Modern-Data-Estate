@@ -14,3 +14,4 @@ In this lab we are retriving a text file from GitHub and saving it locally on ou
   The file can be found [here](https://raw.githubusercontent.com/djpmsft/adf-ready-demo/master/moviesDB.csv).
 
 
+[download this](https://raw.githubusercontent.com/krepko7/Modern-Data-Estate/main/labs/Lab2%20-%20Copy%20file%20to%20storage%20account/CarInventory.csv?token=AEX6LLNOQ7D7CUNUF2BLTJ3BHDKO4)
