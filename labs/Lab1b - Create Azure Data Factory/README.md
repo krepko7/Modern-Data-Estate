@@ -1,7 +1,7 @@
 <img style="float: right;" src="../../graphics/solutions-microsoft-logo-small.png">
 
 ## Modern Data Estate
-# Lab 1b - Set up Azure Data Factory
+# Lab 3 - Set up Azure Data Factory
 
 In the Azure Portal click the search bar in the top and type "Data Factories"
 
