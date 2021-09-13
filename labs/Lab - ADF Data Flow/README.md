@@ -36,11 +36,26 @@ Next click on the Author menu item and under Data Flows click the three dots (el
 
 <img style="float: right;" src="../../graphics/DF_AuthorDataFlow.png">
 
+You can name your Data Flow by filling in the Name property under the Properties window on the top right. 
+
+<img style="float: right;" src="../../graphics/DF_DFName.png">
+
 Click the Add Source box and then give your data set a name.  Name it TaxiData and click the New button.
 
 <img style="float: right;" src="../../graphics/DF_NewSource.png">
 
+Pick Azure Data Lake Storage Gen2 and press Continue.
 
+<img style="float: right;" src="../../graphics/DF_NewDataSet1.png">
+
+Pick CSV and press continue.
+
+<img style="float: right;" src="../../graphics/DF_NewDataSet1.png">
+
+
+
+<img style="float: right;" src="../../graphics/.png">
+<img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
