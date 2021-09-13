@@ -79,6 +79,56 @@ Click the Preview tab and if necessary the refresh button to preview the joined 
 
 <img style="float: right;" src="../../graphics/DF_JoinPreview.png">
 
+Now add a filter transformation.
+
+<img style="float: right;" src="../../graphics/DF_Filter.png">
+
+Name your filter and open the Expression Builder.
+
+<img style="float: right;" src="../../graphics/DF_Filter2.png">
+
+In the input schema options pick the column trip_distance and then add > 2 and click the Save & Finish button.
+
+<img style="float: right;" src="../../graphics/DF_Filter3.png">
+
+You can optionally click the Data Preview tab to look at the results. 
+Now add a Derived Column transformation. Add a formula like this below.
+Look at the Data Preview. Scroll to far right and look at the new derived column.
+
+<img style="float: right;" src="../../graphics/DF_Derived.png">
+
+Optionaly add an Aggregate.  Pick rate_code as the column to group by and then in the Aggregate section add a new column called SumOfFareAmount and add 
+an expression sum({fare_amount}). If you get an error make sure the data source for fare_amount is defined as an integer. 
+
+Optionally add a Sort transformation and pick a column to sort on.
+
+Finally add a Sink transformation. This is the destination of your data flow activity. 
+Next to the final activity you have on the data flow, click the plus (+) icon and add a Sink activity
+
+For the sink create a new dataset and make it a SQL Server one as show below.
+
+<img style="float: right;" src="../../graphics/DF_Sink1.png">
+
+You will need to create a new Linked Service for this.
+
+<img style="float: right;" src="../../graphics/DF_Sink2.png">
+
+You will need to go to your Azure portal and search for "SQL Servers" in the top search bar to find the SQL server you set up earlier. 
+From the SQL Server copy the server name.
+
+<img style="float: right;" src="../../graphics/DF_Sink3.png">
+
+Now enter the database name and credential information you saved from when you created the SQL Server in Azure.
+Press the Test connection link at bottom to verify it all works. Finally press create.
+
+<img style="float: right;" src="../../graphics/DF_Sink4.png">
+
+The final step of the new data set\linked service set up is to pick the name of your new table you want to populate.
+
+<img style="float: right;" src="../../graphics/DF_Sink5.png">
+
+
+
 
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
