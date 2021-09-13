@@ -50,7 +50,7 @@ Pick Azure Data Lake Storage Gen2 and press Continue.
 
 Pick CSV and press continue.
 
-<img style="float: right;" src="../../graphics/DF_NewDataSet1.png">
+<img style="float: right;" src="../../graphics/DF_NewDataSet2.png">
 
 Name your data set and pick the Linked Service you created earlier.  Now browse to the Trip_Data.csv file
 in your data lake. Pick the first row as header option.
