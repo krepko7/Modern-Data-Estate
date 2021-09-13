@@ -18,5 +18,5 @@ In this lab we are retriving a text file from GitHub and saving it locally on ou
 
 - Optional Step - If you are doing the Data Wrangling lab open this [link](https://raw.githubusercontent.com/krepko7/Modern-Data-Estate/main/labs/Lab2%20-%20Copy%20file%20to%20storage%20account/CarInventory.csv?token=AEX6LLP6DSYH77DNUXLXHO3BHOS44) and copy the Car Inventory contents in to a text editor of your choice and save the file as a .csv locally on your computer. 
 
-
+[Back to main page of tutorial](https://github.com/krepko7/Modern-Data-Estate)
 
