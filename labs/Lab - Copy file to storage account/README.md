@@ -1,7 +1,7 @@
 <img style="float: right;" src="../../graphics/solutions-microsoft-logo-small.png">
 
 ## Modern Data Estate
-# Lab 2 - Upload file to storage account
+# Lab - Upload file to storage account
 
 In this lab we are retriving a text file from GitHub and saving it locally on our PC so we can upload to your Azure Data Lake storage account.
 

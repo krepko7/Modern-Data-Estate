@@ -1,7 +1,7 @@
 <img style="float: right;" src="../../graphics/solutions-microsoft-logo-small.png">
 
 ## Modern Data Estate
-# Lab 4 - Create Power BI Report from Data Lake File
+# Lab - Create Power BI Report from Data Lake File
 
 In the Azure Portal (portal.azure.com) find your storage accounts.
 
