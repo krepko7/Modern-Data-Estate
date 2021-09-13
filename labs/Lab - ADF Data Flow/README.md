@@ -52,10 +52,18 @@ Pick CSV and press continue.
 
 <img style="float: right;" src="../../graphics/DF_NewDataSet1.png">
 
+Name your data set and pick the Linked Service you created earlier.  Now browse to the Trip_Data.csv file
+in your data lake. Pick the first row as header option.
+
+<img style="float: right;" src="../../graphics/DF_NewDataSet3.png">
+
+Now do the same thing again adding a data source for the Trip_Fare.csv data.
+
+Also, turn on the Data flow debug option.
+
+<img style="float: right;" src="../../graphics/DF_Debug.png">
 
 
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
