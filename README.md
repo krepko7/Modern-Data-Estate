@@ -24,7 +24,7 @@ Please see the pre-requisites below.
 - [Lab 5 - Create code free data transformations using ADF and Data Flows - To be edited by Kirby](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab5%20-%20ADF%20Data%20Flow)
 
 - [Lab # - Create a Power BI report using Azure SQL DB as a source]()
-- [Lab # - ADF and Data Flows](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-data-flow#create-a-pipeline-with-a-data-flow-activity)
+- [Lab # - ADF and Data Flows with MoviesDB file](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-data-flow#create-a-pipeline-with-a-data-flow-activity)
 - [Lab # - Create a Power BI report using Azure Data Lake file the file you transformed above](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab%20-%20Power%20BI%20using%20Data%20Lake)
 
 
