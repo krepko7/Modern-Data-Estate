@@ -127,13 +127,34 @@ The final step of the new data set\linked service set up is to pick the name of 
 
 <img style="float: right;" src="../../graphics/DF_Sink5.png">
 
+Press the Publish button on the top of the screen to commit your changes. Optionally you can press
+the Validate button on top left of your data flow to make sure eveything is working well.
 
+<img style="float: right;" src="../../graphics/DF_Publish.png">
 
+Now all you need to do is set up a pipeline to run your data flow.  Do this by
+going to the Author tab and next to the Pipeline category click the three dots ellipses and pick New Pipeline.
 
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
+<img style="float: right;" src="../../graphics/DF_Pipeline1.png">
+
+You can Publish one more time to save your changes and then to run the pipeline\data flow on demand click the Debug button in the pipeline. 
+Click the eyeglasses icon at the bottom where you pipeline is queued or running. 
+
+<img style="float: right;" src="../../graphics/DF_Pipeline2.png">
+
+Now you can click each activity to see the status.  A green bar on the top of the activity means that it was successful. 
+
+<img style="float: right;" src="../../graphics/DF_Pipeline3.png">
+
+To see the results in SQL Server you don't need to use SQL Server Management Studio or Azure Data Studio if you 
+don't have them installed. Instead, navigate back to the SQL Server in the Azure portal and from the main overview
+page click on the database to go to that database.
+
+<img style="float: right;" src="../../graphics/DF_SelectFromSQL2.png">
+
+Then click the Query Editor option on the left menu (aka blade).
+
+<img style="float: right;" src="../../graphics/DF_SelectFromSQL.png">
 
 
 [Back to main page of tutorial](https://github.com/krepko7/Modern-Data-Estate)
