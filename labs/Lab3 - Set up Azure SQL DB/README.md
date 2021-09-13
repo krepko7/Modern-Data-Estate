@@ -66,3 +66,4 @@ From here you can control firewalls and virtual networks as well as reset the SQ
 &nbsp;
 
 
+[Back to main page of tutorial](https://github.com/krepko7/Modern-Data-Estate)
