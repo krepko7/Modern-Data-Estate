@@ -57,15 +57,29 @@ in your data lake. Pick the first row as header option.
 
 <img style="float: right;" src="../../graphics/DF_NewDataSet3.png">
 
+In the Data source settings press the Projection tab and click the Detect Data Types option.
+
+<img style="float: right;" src="../../graphics/DF_Projection1.png">
+
 Now do the same thing again adding a data source for the Trip_Fare.csv data.
 
 Also, turn on the Data flow debug option.
 
 <img style="float: right;" src="../../graphics/DF_Debug.png">
 
+Now click the small plus (+) sign next to your TaxiData data source and pick the Join transformation. 
 
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
+<img style="float: right;" src="../../graphics/DF_Join1.png">
+
+Pick the join settings as below.
+
+<img style="float: right;" src="../../graphics/DF_Join2.png">
+
+Click the Preview tab and if necessary the refresh button to preview the joined data.
+
+<img style="float: right;" src="../../graphics/DF_JoinPreview.png">
+
+
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
