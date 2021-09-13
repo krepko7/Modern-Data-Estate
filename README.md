@@ -24,7 +24,7 @@ Please see the pre-requisites below.
 - [Lab 5 - Create code free data transformations using ADF and Data Flows](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab%20-%20ADF%20Data%20Flow)
 - [Lab 6 - Create a Power BI report using Azure SQL DB as a source](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab%20-%20Power%20BI%20using%20SQL%20DB)
 - [Optional Lab - ADF and Data Flows with MoviesDB file](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-data-flow#create-a-pipeline-with-a-data-flow-activity)
-- [Optional Lab - Create a Power BI report using Azure Data Lake file the file you transformed above](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab%20-%20Power%20BI%20using%20Data%20Lake)
+- [Optional Lab - Create a Power BI report directly from Azure Data Lake file CarInventory file](https://github.com/krepko7/Modern-Data-Estate/tree/main/labs/Lab%20-%20Power%20BI%20using%20Data%20Lake)
 
 
 
