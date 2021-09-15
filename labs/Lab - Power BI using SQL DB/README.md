@@ -9,6 +9,16 @@ and then Azure SQL Database as the source.
 
 <img style="float: right;" src="../../graphics/PBI_SQL1.png">
 
+Click the Database tab on the left and then enter the name of your Azure SQL Database Server and database name.
+
+<img style="float: right;" src="../../graphics/PBI_SQL3.png">
+
+If you need to find the SQL ID or reset the password go to the Azure Portal and find 
+the SQL Server and you will see this screen with options to reset password.
+
+<img style="float: right;" src="../../graphics/PBI_SQL4.png">
+
+
 
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
