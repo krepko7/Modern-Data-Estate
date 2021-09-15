@@ -36,7 +36,15 @@ Remember any transformation step you do is being tracked so it can be replayed n
 the data. You can look at these steps and delete or change the order of them by looking at
 the Applied Steps section on the right. 
 
+!!! Challenge. Change the column data type of pickup_datetime and dropoff_datetime columns to datatime. !!!
+
 <img style="float: right;" src="../../graphics/PBI_SQL8.png">
+
+Finally press the Close and Apply button to import the data into the Power BI data model. 
+Now you can view the data, the model and create a report\dashboard by clicking the buttons
+on the top left.  
+
+<img style="float: right;" src="../../graphics/PBI_SQL9.png">
 
 
 <img style="float: right;" src="../../graphics/.png">
