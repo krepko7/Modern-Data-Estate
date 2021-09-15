@@ -50,13 +50,5 @@ Now click on your table fields and change the report visuals, set filters etc. t
 
 <img style="float: right;" src="../../graphics/PBI_SQL10.png">
 
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
-
 
 [Back to main page of tutorial](https://github.com/krepko7/Modern-Data-Estate)
