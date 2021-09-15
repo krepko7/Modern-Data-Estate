@@ -18,6 +18,19 @@ the SQL Server and you will see this screen with options to reset password.
 
 <img style="float: right;" src="../../graphics/PBI_SQL4.png">
 
+If you get a firewall error add your client IP address in the Azure SQL Database 
+in the Azure portal.
+
+<img style="float: right;" src="../../graphics/PBI_SQL5.png">
+
+Click your SQL table and preview the data. Then click the Transform Data button to
+start your transformations. 
+
+<img style="float: right;" src="../../graphics/PBI_SQL6.png">
+
+Now you can right click on a column and pick a transform option. You can also split, pivot, remove duplicates etc.
+
+<img style="float: right;" src="../../graphics/PBI_SQL7.png">
 
 
 <img style="float: right;" src="../../graphics/.png">
