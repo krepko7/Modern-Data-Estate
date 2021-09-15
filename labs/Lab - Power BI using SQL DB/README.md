@@ -32,8 +32,13 @@ Now you can right click on a column and pick a transform option. You can also sp
 
 <img style="float: right;" src="../../graphics/PBI_SQL7.png">
 
+Remember any transformation step you do is being tracked so it can be replayed next time you refresh
+the data. You can look at these steps and delete or change the order of them by looking at
+the Applied Steps section on the right. 
 
-<img style="float: right;" src="../../graphics/.png">
+<img style="float: right;" src="../../graphics/PBI_SQL8.png">
+
+
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
