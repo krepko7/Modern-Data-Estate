@@ -50,5 +50,12 @@ Now click on your table fields and change the report visuals, set filters etc. t
 
 <img style="float: right;" src="../../graphics/PBI_SQL10.png">
 
+Finally, when ready to publish report press the Publish button.
+This will publish the report to the Power BI Service. Users you give access to and 
+have authenticated can view the reports on any browswer or iPhone and Android device via
+the Power BI app.
+
+<img style="float: right;" src="../../graphics/PBI_SQL11.png">
+
 
 [Back to main page of tutorial](https://github.com/krepko7/Modern-Data-Estate)
