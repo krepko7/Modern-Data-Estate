@@ -15,7 +15,7 @@ In this lab we are retriving a text file from GitHub and saving it locally on ou
 
 - Step 2 - Do the same with the above trip_fare.csv and copy the contents of Taxi fare data to a text editor of your choice and save the file as trip_fare.csv.
 
-- Step 3 - [Upload files to storage account using the Azure Portal](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal)
+- Step 3 - [Upload the above files you just saved locally to storage account using the Azure Portal](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal)
 
 - Optional Step - If you are doing the lab "ADF and Data Flows with MoviesDB file" the file we will use is MoviesDB.csv. To retrieve the file from GitHub, copy the contents to a text editor of your choice to save locally as a .csv file. 
   The file can be found [here](https://raw.githubusercontent.com/djpmsft/adf-ready-demo/master/moviesDB.csv).
