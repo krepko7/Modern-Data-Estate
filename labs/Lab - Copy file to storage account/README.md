@@ -6,9 +6,12 @@
 In this lab we are retriving a text file from GitHub and saving it locally on our PC so we can upload to your Azure Data Lake storage account.
 
 
-- Step 1 - Click on the trip_data.csv above and then click the "Copy raw contents" button on the right. Then open the text editor of your choice and save the file as a .csv locally on your computer. Name it trip_data.csv.
+- Step 1 - Click on the trip_data.csv above and then click the "Copy raw contents" button on the right. Then open the text editor of your choice and save the file as a .csv locally on your computer. Name it trip_data.csv. Once you have done that remember in GitHub how to navigate back to this page. The graphic below this next one shows you how to click the link to get back.
 
 <img style="float: right;" src="../../graphics/githubcopyraw.png">
+
+<img style="float: right;" src="../../graphics/navigatebacktofilelab.png">
+
 
 - Step 2 - Do the same with the above trip_fare.csv and copy the contents of Taxi fare data to a text editor of your choice and save the file as trip_fare.csv.
 
