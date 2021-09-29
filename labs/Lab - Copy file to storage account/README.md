@@ -6,10 +6,9 @@
 In this lab we are retriving a text file from GitHub and saving it locally on our PC so we can upload to your Azure Data Lake storage account.
 
 
-- Step 1 - Open this [link](https://raw.githubusercontent.com/krepko7/Modern-Data-Estate/main/labs/Lab2%20-%20Copy%20file%20to%20storage%20account/trip_data.csv?token=AEX6LLNXMXHFYIHHGLOULDLBHORV2
-) and copy the contents of Taxi trip data in to a text editor of your choice and save the file as a .csv locally on your computer. 
+- Step 1 - Click on the trip_data.csv above and then click the Raw button. Copy the contents of Taxi trip data in to a text editor of your choice and save the file as a .csv locally on your computer. 
 
-- Step 2 - Open this [link](https://raw.githubusercontent.com/krepko7/Modern-Data-Estate/main/labs/Lab2%20-%20Copy%20file%20to%20storage%20account/trip_fare.csv?token=AEX6LLJSNCBPH6U3ZQ2Q6GTBHOR74) and copy the contents of Taxi fare data to a text editor of your choice and save the file as a .csv locally on your computer. 
+- Step 2 - Do the same with the above trip_fare.csv and copy the contents of Taxi fare data to a text editor of your choice and save the file as a .csv locally on your computer. 
 
 - Step 3 - [Upload files to storage account using the Azure Portal](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal)
 
