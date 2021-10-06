@@ -118,10 +118,7 @@ your IP address you see in the error.
 
 <img style="float: right;" src="../../graphics/AzureSQLDBFirewall.png">
 
-Now enter the database name and credential information you saved from when you created the SQL Server in Azure.
-Press the Test connection link at bottom to verify it all works. Finally press create.
-
-<img style="float: right;" src="../../graphics/DF_Sink4.png">
+Finally press create.
 
 The final step of the new data set\linked service set up is to pick the name of your new table you want to populate.
 
