@@ -118,6 +118,10 @@ your IP address you see in the error.
 
 <img style="float: right;" src="../../graphics/AzureSQLDBFirewall.png">
 
+You will also need to set the "Allow Azure services and resources to access this server" to Yes.
+
+<img style="float: right;" src="../../graphics/AzureSQLDBFirewall2.png">
+
 Finally press create.
 
 The final step of the new data set\linked service set up is to pick the name of your new table you want to populate.
