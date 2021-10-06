@@ -107,16 +107,16 @@ Next to the final activity you have on the data flow, click the plus (+) icon an
 
 For the sink create a new dataset and make it a SQL Server one as show below.
 
-<img style="float: right;" src="../../graphics/DF_Sink1.png">
+<img style="float: right;" src="../../graphics/AzureSQLDB.png">
 
 You will need to create a new Linked Service for this.
 
-<img style="float: right;" src="../../graphics/DF_Sink2.png">
+<img style="float: right;" src="../../graphics/AzureSQLDB2.png">
 
-You will need to go to your Azure portal and search for "SQL Servers" in the top search bar to find the SQL server you set up earlier. 
-From the SQL Server copy the server name.
+Press the Test Connection link. If you get an error, click the error and you may need to go to the Azure SQL DB server and add
+your IP address you see in the error. 
 
-<img style="float: right;" src="../../graphics/DF_Sink3.png">
+<img style="float: right;" src="../../graphics/AzureSQLDBFirewall.png">
 
 Now enter the database name and credential information you saved from when you created the SQL Server in Azure.
 Press the Test connection link at bottom to verify it all works. Finally press create.
