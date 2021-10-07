@@ -98,7 +98,7 @@ In the input schema options pick the column trip_distance and then add > 2 and c
 You can optionally click the Data Preview tab to look at the results. 
 
 Now let's add a Derived Column transformation. Add a formula like this below.<br/>
-Code: iif(rate_code == 1, 'Basic','Standard')<br/>
+Code: `iif(rate_code == 1, 'Basic','Standard')`<br/>
 
 <img style="float: right;" src="../../graphics/DF_Derived.png">
 
