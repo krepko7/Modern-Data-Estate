@@ -99,12 +99,13 @@ You can optionally click the Data Preview tab to look at the results.
 
 Now let's add a Derived Column transformation. Add a formula like this below.<br/>
 Code: iif(rate_code == 1, 'Basic','Standard')<br/>
-Look at the Data Preview. Scroll to far right and look at the new derived column.
-
-If you get an error related to data type make sure you defined the rate_code column as an integer in the
-earlier step. If not, you can put single codes around the 1.
 
 <img style="float: right;" src="../../graphics/DF_Derived.png">
+
+Look at the Data Preview. Scroll to far right and look at the new derived column.
+If you get an error related to data type make sure you defined the rate_code column as an integer in the
+earlier step. If not, you can put single codes around the 1.<br/>
+
 
 Optionaly add an Aggregate.  Pick rate_code as the column to group by and then in the Aggregate section add a new column called SumOfFareAmount and add 
 an expression sum({fare_amount}). If you get an error make sure the data source for fare_amount is defined as an integer. 
