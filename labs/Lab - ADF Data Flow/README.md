@@ -67,7 +67,7 @@ In the Data source settings press the Projection tab and click the Detect Data T
 
 Now do the same thing again adding a data source for the Trip_Fare.csv data.
 
-Also, turn on the Data flow debug option.
+If you haven't already, turn on the Data flow debug option.
 
 <img style="float: right;" src="../../graphics/DF_Debug.png">
 
