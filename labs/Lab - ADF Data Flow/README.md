@@ -99,7 +99,7 @@ You can optionally click the Data Preview tab to look at the results.
 
 Now let's add a Derived Column transformation. Add a formula like this below.
 Look at the Data Preview. Scroll to far right and look at the new derived column.
-Code: iif(rate_code == 1, 'Basic','Standard')
+Code: iif(rate_code == 1, 'Basic','Standard')<br/>
 If you get an error related to data type make sure you defined the rate_code column as an integer in the
 earlier step. If not, you can put single codes around the 1.
 
