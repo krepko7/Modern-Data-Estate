@@ -108,7 +108,7 @@ earlier step. If not, you can put single codes around the 1.<br/>
 
 
 Optionaly add an Aggregate.  Pick rate_code as the column to group by and then in the Aggregate section add a new column called SumOfFareAmount and add 
-an expression sum({fare_amount}). If you get an error make sure the data source for fare_amount is defined as an integer. 
+an expression `sum({fare_amount})`. If you get an error make sure the data source for fare_amount is defined as an integer. 
 
 Optionally add a Sort transformation and pick a column to sort on.
 
