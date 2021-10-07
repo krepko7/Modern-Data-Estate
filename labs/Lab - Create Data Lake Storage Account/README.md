@@ -17,7 +17,9 @@ In the Advanced section make sure to pick the Enable hierarchical namespace opti
 
 <img style="float: right;" src="../../graphics/MDL_Storage_Hierarchical.png">
 
+Also, in the data protection tab make sure you have the storage account and container soft-delete option disabled.
 
+<img style="float: right;" src="../../graphics/StorageAccountSoftDelete.png">
 
 Now go to your newly created storage account and click the Containers option.
 
