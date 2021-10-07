@@ -36,6 +36,10 @@ Next click on the Author menu item and under Data Flows click the three dots (el
 
 <img style="float: right;" src="../../graphics/DF_AuthorDataFlow.png">
 
+Before we do any authoring let's turn on Data flow debug. You can leave the default settings and click ok. This will take a few minutes to spin up a cluster in the background.
+
+<img style="float: right;" src="../../graphics/DataFlowDebug1.png">
+
 You can name your Data Flow by filling in the Name property under the Properties window on the top right. 
 
 <img style="float: right;" src="../../graphics/DF_DFName.png">
