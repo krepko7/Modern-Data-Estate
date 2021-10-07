@@ -3,7 +3,7 @@
 ## Modern Data Estate
 # Lab - Upload file to storage account
 
-In this lab we are retriving two text files from above and saving it locally on our PC so we can upload to your Azure Data Lake storage account.
+In this lab we are retriving two text files from above and saving them locally on our PC so we can upload to your Azure Data Lake storage account.
 
 
 - Step 1 - Click on the trip_data.csv above and then click the "Copy raw contents" button on the right. Then open the text editor of your choice and save the file as a .csv locally on your computer. Name it trip_data.csv. Once you have done that remember in GitHub how to navigate back to this page. The graphic below this next one shows you how to click the link to get back.
